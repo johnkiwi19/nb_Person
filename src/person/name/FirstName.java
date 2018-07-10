@@ -10,10 +10,32 @@ package person.name;
  * @author john
  */
 public class FirstName {
+    
+    String name;
 
     public FirstName() {
         System.out.println("First Name");
     }
+
+    public FirstName(String name) {
+        this.name = name;
+    }
+
+    
+    
+    public String get() {
+        return name;
+    }
+
+    public void set(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return name ;
+    }
+    
     
     
 }
