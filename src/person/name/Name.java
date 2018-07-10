@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package person;
+package person.name;
 
 import person.name.FirstName;
 import person.name.MiddleName;
@@ -13,7 +13,7 @@ import person.name.LastName;
  *
  * @author john
  */
-class Name {
+public class Name {
 
     // 3 has a's
     

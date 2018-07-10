@@ -11,8 +11,27 @@ package person.name;
  */
 public class LastName {
 
+    String name;
     public LastName() {
         System.out.println("LastName");
     }
+
+    public LastName(String name) {
+        this.name = name;
+    }
+
+    public String get() {
+        return name;
+    }
+
+    public void set(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return  name ;
+    }
+    
     
 }

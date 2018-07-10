@@ -5,6 +5,8 @@
  */
 package person;
 
+import person.name.Name;
+
 /**
  *
  * @author john
