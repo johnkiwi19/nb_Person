@@ -26,6 +26,9 @@ public class Name {
         new FirstName();
         new MiddleName();
         new LastName();
+        FirstName n = new FirstName("Bill");
+        System.out.println("First Name = "+n);
+        
     }
     
     
