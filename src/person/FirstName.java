@@ -9,17 +9,6 @@ package person;
  *
  * @author john
  */
-class Name {
-
-    // 3 has a's
-    
-    FirstName firetName;
-    MiddleName middleName;
-    LastName lastName;
-    
-    public Name() {
-        System.out.println("This is the Name class");
-    }
-    
+class FirstName {
     
 }
