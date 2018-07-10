@@ -12,7 +12,7 @@ package person;
 class Name {
 
     public Name() {
-        System.out.println("This is the name class");
+        System.out.println("This is the Name class");
     }
     
     
