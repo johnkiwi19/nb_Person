@@ -11,6 +11,12 @@ package person;
  */
 public class Person {
 
+    // hasa
+    Name name;
+    Address address;
+    Phone phone;
+    
+    
     public Person() {
         System.out.println("This is the Person Class");
     }
