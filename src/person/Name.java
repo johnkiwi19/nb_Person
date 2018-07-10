@@ -5,6 +5,10 @@
  */
 package person;
 
+import person.name.FirstName;
+import person.name.MiddleName;
+import person.name.LastName;
+
 /**
  *
  * @author john

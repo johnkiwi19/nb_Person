@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package person;
+package person.name;
 
 /**
  *
  * @author john
  */
-class LastName {
+public class LastName {
 
     public LastName() {
         System.out.println("LastName");
