@@ -19,6 +19,12 @@ public class Person {
     
     public Person() {
         System.out.println("This is the Person Class");
+        
+        new Name();
+        new Address();
+        new Phone();
+        
+        
     }
 
 
