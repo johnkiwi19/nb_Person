@@ -10,5 +10,9 @@ package person;
  * @author john
  */
 class MiddleName {
+
+    public MiddleName() {
+        System.out.println("MiddleName");
+    }
     
 }

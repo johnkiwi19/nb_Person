@@ -19,6 +19,9 @@ class Name {
     
     public Name() {
         System.out.println("This is the Name class");
+        new FirstName();
+        new MiddleName();
+        new LastName();
     }
     
     
